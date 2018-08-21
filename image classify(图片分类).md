@@ -26,7 +26,7 @@ and there also use Data Augmentation(也用到数据增强)，
 cause the training samples are not enough and it can help the network learn better(训练数据不足且有助于网络学得更好)。**   
 > from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-**Visualizing Intermediate Representations of erery layer of the CNN(可视化中间过程)**
+**Visualizing Intermediate Representations of erery layer of the CNN(可视化中间过程)**  
 ![image](https://wx3.sinaimg.cn/mw1024/8311c72dly1fuhdj6sgtrj20s70dr147.jpg)
 
 ==2、Reducing Overfitting(减缓过拟合)==  
