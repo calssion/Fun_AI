@@ -10,3 +10,5 @@
 
 ## [3、house_price(房价预测)](https://github.com/calssion/Fun_AI/blob/master/house_price(%E6%88%BF%E4%BB%B7%E9%A2%84%E6%B5%8B).md)  
 
+## [4、Titanic(泰坦尼克号)](https://github.com/calssion/Fun_AI/blob/master/Titanic(%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7).md)  
+
