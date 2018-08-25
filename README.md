@@ -12,3 +12,5 @@
 
 ## [4、Titanic(泰坦尼克号)](https://github.com/calssion/Fun_AI/blob/master/Titanic(%E6%B3%B0%E5%9D%A6%E5%B0%BC%E5%85%8B%E5%8F%B7).md)  
 
+## [5、Digit Recognizer(数字识别)](https://github.com/calssion/Fun_AI/blob/master/Digit%20Recognizer(%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB).md)   
+
