@@ -14,3 +14,5 @@
 
 ## [5、Digit Recognizer(数字识别)](https://github.com/calssion/Fun_AI/blob/master/Digit%20Recognizer(%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB).md)   
 
+## [6、Data Science London + Scikit-learn(伦敦数据分析)](https://github.com/calssion/Fun_AI/blob/master/Data%20Science%20London%20%2B%20Scikit-learn(%E4%BC%A6%E6%95%A6%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90).md)  
+
