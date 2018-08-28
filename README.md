@@ -16,3 +16,5 @@
 
 ## [6、Data Science London + Scikit-learn(伦敦数据分析)](https://github.com/calssion/Fun_AI/blob/master/Data%20Science%20London%20%2B%20Scikit-learn(%E4%BC%A6%E6%95%A6%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90).md)  
 
+## [7、QA systems(问答系统)](https://github.com/calssion/Fun_AI/blob/master/QA%20systems(%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F).md)   
+
