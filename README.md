@@ -1,7 +1,5 @@
 # Fun_AI
 ## learn sth. funny of AI from others' code(从他人处学习一些有趣的AI项目)
-## offer two language(提供两种语言)
-## English and Chinese(英语和中文)
 ## updating(持续更新)
 
 ## [1、image classify(图片分类)](https://github.com/calssion/Fun_AI/blob/master/image%20classify(%E5%9B%BE%E7%89%87%E5%88%86%E7%B1%BB).md)  
@@ -17,4 +15,6 @@
 ## [6、Data Science London + Scikit-learn(伦敦数据分析)](https://github.com/calssion/Fun_AI/blob/master/Data%20Science%20London%20%2B%20Scikit-learn(%E4%BC%A6%E6%95%A6%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90).md)  
 
 ## [7、QA systems(问答系统)](https://github.com/calssion/Fun_AI/blob/master/QA%20systems(%E9%97%AE%E7%AD%94%E7%B3%BB%E7%BB%9F).md)   
+
+## [8、Python 自然语言处理 第二版 nltk](https://usyiyi.github.io/nlp-py-2e-zh/)      
 
